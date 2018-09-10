@@ -6,7 +6,9 @@ class App extends Component {
   render() {
     return (
       <div>
-        <HeaderScreen/>
+        <div className="container" >
+          <HeaderScreen/>
+        </div>
         <div className="container" >
           <ContentScreen/>
         </div>

@@ -13,3 +13,19 @@ img {
   height: 64;
   width: 64;
 }
+.addbutton {
+margin-bottom:10px;
+
+}
+.id_input {
+  width:50px;
+}
+.form-td{
+  border:none
+}
+.page-link {
+  color:#666666
+}
+.page-link a:hover {
+  color:#666666
+}
